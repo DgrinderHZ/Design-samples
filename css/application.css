@@ -21,6 +21,8 @@ body {
   line-height: 1.5em;
 }
 
+
+
 header{
 	background: #333;
 	color: #fff;
@@ -47,6 +49,12 @@ footer{
 	padding:3px;
 	border:1px #CCC solid;
 }
+
+#books-index .max{
+	max-width: 150px;
+	max-height: 224px;
+}
+
 
 #books-index h3{
 	height: 50px;
